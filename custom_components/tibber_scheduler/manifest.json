@@ -1,0 +1,12 @@
+{
+  "domain": "tibber_scheduler",
+  "name": "Tibber Scheduler",
+  "version": "1.0.0",
+  "documentation": "https://github.com/RomanWilkening/tibber_scheduler",
+  "issue_tracker": "https://github.com/RomanWilkening/tiber_scheduler_integration/issues",
+  "dependencies": [],
+  "codeowners": ["@RomanWilkening"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
