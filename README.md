@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="custom_components/tibber_scheduler/brand/logo.png" alt="Tibber Scheduler Logo" width="256">
+</p>
+
 # Tibber Scheduler Integration for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
